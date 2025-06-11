@@ -1,6 +1,6 @@
 # Hello, i'm Sandra Grande!
 
-## Currently a full time student at Noroff, studying Frontend-development
+## Currently looking for a new job as a developer or designer!
 ### Some facts about me:
 - From Trondheim, Norway.
 - Studied UI-design at Noroff from 2022-2023.
@@ -13,7 +13,15 @@
 - CSS
 - Javascript
 - React
+- Typescript
 - Tailwind
+- SASS/LESS
+- SCSS
 - Bootstrap
+- Git, github
+- REST API
+- Design principles
+- Design systems
+- Branding
 
-### I am currently working part time at ELIS as well as helping friends and family with freelance projects.
+### I am currently working part time at ELIS
