@@ -4,7 +4,8 @@
 ### Some facts about me:
 - From Trondheim, Norway.
 - Studied UI-design at Noroff from 2022-2023.
-- Some hobbies are bouldering, gaming and painting.
+- Studied Frontend-development at Noroff from 2023-2025.
+- Some of my hobbies are bouldering, gaming and painting.
 
 ## Skills and tools
 - Adobe XD, Illustrator and Photoshop
